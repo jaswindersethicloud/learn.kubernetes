@@ -1,1 +1,1 @@
-# learn.kubernetes
+kubectl create -f pod.yaml
